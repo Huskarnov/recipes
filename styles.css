@@ -1,3 +1,15 @@
-.red{
+ 
+
+.title-1{
+    box-shadow: 0 0 2px rgb(68, 114, 184);
+    width:fit-content;
+    padding-left: 11px; padding-right: 11px;
     color: red;
+    border-radius: 22px;
+    background-color: beige;
+}
+
+img{
+    box-shadow: 0 0 5px red, 0 0 7px hsla(0, 0%, 0%, 0.452);
+    border-radius: 22px;
 }
