@@ -7,9 +7,26 @@
     color: red;
     border-radius: 22px;
     background-color: beige;
+    margin: auto;
+}
+
+.everyrecipe{
+    text-align: center;
 }
 
 img{
     box-shadow: 0 0 5px red, 0 0 7px hsla(0, 0%, 0%, 0.452);
     border-radius: 22px;
 }
+
+.recipe{
+   display: inline-block;
+   text-align: center;
+   margin: 10px;
+}
+
+.recipe a, img{
+    display: block;
+     margin: 8px auto;
+}
+
